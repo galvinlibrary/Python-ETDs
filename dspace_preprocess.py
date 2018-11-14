@@ -44,6 +44,11 @@ def get_file_list(x):
                 size_array.append(file_size)
             #defines index of largest file
                 biggest = numpy.argmax(size_array)
+                
+                ## find a certain file type instead of largest file
+                #risfile = f.endswith(".ris")
+                #print(risfile)
+                
             #print(biggest)
             
             file_list.append(sub_dir_list)
