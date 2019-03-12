@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+  <titleInfo>
+    <title>Automated Dry Deposition Sampler</title>
+  </titleInfo>
+  <name>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/cre">creator</roleTerm>
+    </role>
+    <namePart>Holsen, Thomas M.</namePart>
+  </name>
+  <name>
+    <role>
+      <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/cre">creator</roleTerm>
+    </role>
+    <namePart>Noll, Kenneth E.</namePart>
+  </name>
+  <abstract>A dry deposition sampling apparatus having at least one thin dry deposition plate with sample collection film is maintained on a support structure which is rotatable about a vertical axis and has a vane to maintain the sharp leading edge of the dry deposition plate(s) headed into the wind. Covers are positioned over the sample collection films automatically upon commencement of precipitation and are automatically moved to a position exposing the sample collection films to the atmosphere upon cessation of precipitation. The duration of exposure of the collection films to the atmosphere is timed, thus providing a dry deposition sampling apparatus which may be left unattended for long periods of time.</abstract>
+  <note type="provenance">Submitted by Aric Ahrens (ahrens@iit.edu) on 2011-12-12T19:14:34Z No. of bitstreams: 1 5443271.pdf: 254464 bytes, checksum: 9664fc21cc6839c90bec12d9d393560e (MD5)</note>
+  <note type="provenance">Made available in DSpace on 2011-12-12T19:14:34Z (GMT). No. of bitstreams: 1 5443271.pdf: 254464 bytes, checksum: 9664fc21cc6839c90bec12d9d393560e (MD5) Previous issue date: 1995-08-22</note>
+  <note type="funding">Illinois Institute of Technology</note>
+  <originInfo>
+    <dateCaptured>2009-05-11</dateCaptured>
+  </originInfo>
+  <originInfo>
+    <dateCreated keyDate="yes">1995-08-22</dateCreated>
+  </originInfo>
+  <identifier type="pn">5,443,271</identifier>
+  <identifier type="hdl">http://hdl.handle.net/10560/2412</identifier>
+  <language>
+    <languageTerm type="code" authority="rfc3066">en</languageTerm>
+  </language>
+  <abstract>United States Patent</abstract>
+  <typeOfResource authority="gmgpc" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007520">Patent</typeOfResource>
+  <physicalDescription>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <internetMediaType>application/pdf</internetMediaType>
+  </physicalDescription>
+  <accessCondition type="useAndReproduction" displayLabel="rightsstatements.org">No Copyright - United States</accessCondition>
+  <accessCondition type="useAndReproduction" displayLabel="rightsstatements.orgURI">http://rightsstatements.org/page/NoC-US/1.0/</accessCondition>
+  <accessCondition type="restrictionOnAccess">Open Access</accessCondition>
+</mods>
